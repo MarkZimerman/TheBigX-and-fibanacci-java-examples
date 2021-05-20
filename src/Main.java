@@ -9,7 +9,6 @@ public class Main {
         for (int i = 0; i < size; i++)
             printLine(first++, second--, size);
 
-
         int limit = 100;
 
         int previous = 0;
